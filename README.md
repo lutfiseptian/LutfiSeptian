@@ -1,5 +1,11 @@
 ### Hi there 👋
+# ✨Lutfi Septian ✨
+**`Mobile Apps Developer`**
 
+my name is lutfi i am an application developer and i really like challenges in developing applications. and I really like playing Instagram 
+**`LutfiSeptian10`** is my Instagram.. Nice to meet you
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain.svg" />
 <!--
 **LutfiSeptian/LutfiSeptian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
