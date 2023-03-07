@@ -1,8 +1,12 @@
-### Hi there 👋👋
-# ✨Lutfi Septian ✨
+Hi there, I am [Lutfi]([https://www.yushi.dev/](https://www.instagram.com/lutfiseptian10/?hl=id)) 👋
+
+I am a software engineer, I really like to know the development of technology, I develop applications with android studio, with programming languages, Dart, Java, Kotlin, C++.
+
+Pleased to meet you
+
 **`Mobile Apps Developer`**
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=lutfiseptian)](https://github.com/lutfiseptian)
+[![](https://github-readme-stats.vercel.app/api?username=lutfiseptian)](https://github.com/lutfiseptian)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lutfiseptian&layout=compact)](https://github.com/lutfiseptian)
 
 
