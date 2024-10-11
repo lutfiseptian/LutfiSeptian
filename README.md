@@ -1,6 +1,6 @@
 ## Hi there, I am [Lutfi]([https://www.yushi.dev/](https://www.instagram.com/lutfiseptian10/?hl=id)) 👋
 
-I am a software engineer, I really like to know the development of technology, I develop applications with android studio, with programming languages, Dart, Java, Kotlin, C++.
+I Hate PHP.
 
 Pleased to meet you
 
