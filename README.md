@@ -6,7 +6,6 @@ Pleased to meet you
 
 **`Mobile Apps Developer`**
 
-[![](https://github-readme-stats.vercel.app/api?username=lutfiseptian)](https://github.com/lutfiseptian)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lutfiseptian&layout=compact)](https://github.com/lutfiseptian)
 
 
