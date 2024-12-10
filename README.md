@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f8f3c0cd-11fb-4410-aa02-8c5aac761548)![image](https://github.com/user-attachments/assets/89b97fdb-16d9-4e0f-a022-7af7cfe37be8)## Hi there, I am [Lutfi](https://www.instagram.com/lutfiseptian10/?hl=id) 👋
+## Hi there, I am [Lutfi](https://www.instagram.com/lutfiseptian10/?hl=id) 👋
 
 I Hate PHP.
 
