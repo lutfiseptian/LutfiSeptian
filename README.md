@@ -14,7 +14,7 @@ Pleased to meet you
       </a>
     </td>
     <td>
-      <img align="center" width="200" height="200" src="https://via.placeholder.com/200" alt="Placeholder Image" />
+      <img align="center" width="200" height="200" src="[https://via.placeholder.com/200](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/04267be3-bbaf-4f56-b4a0-3d7d6bdc1d32/di0vsps-bce3fc16-45df-4114-93dd-676f7834bd36.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA0MjY3YmUzLWJiYWYtNGY1Ni1iNGEwLTNkN2Q2YmRjMWQzMlwvZGkwdnNwcy1iY2UzZmMxNi00NWRmLTQxMTQtOTNkZC02NzZmNzgzNGJkMzYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ANM8T2a7jLTS-yzXAAtHJMfxtJvkOSEr_uU9WplWQrQ)" alt="Placeholder Image" />
     </td>
   </tr>
 </table>
